@@ -1,3 +1,4 @@
 # MyDemo
 This my first Git repository
-author - Dhruv Prajapati
+<br>
+Author - Dhruv Prajapati
